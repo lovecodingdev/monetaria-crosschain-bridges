@@ -5,7 +5,7 @@ import {IExecutorBase} from '../interfaces/IExecutorBase.sol';
 
 /**
  * @title BridgeExecutorBase
- * @author Aave
+ * @author Monetaria
  * @notice Abstract contract that implements basic executor functionality
  * @dev It does not implement an external `queue` function. This should instead be done in the inheriting
  * contract with proper access control

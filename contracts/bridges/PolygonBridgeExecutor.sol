@@ -6,7 +6,7 @@ import {BridgeExecutorBase} from './BridgeExecutorBase.sol';
 
 /**
  * @title PolygonBridgeExecutor
- * @author Aave
+ * @author Monetaria
  * @notice Implementation of the Polygon Bridge Executor, able to receive cross-chain transactions from Ethereum
  * @dev Queuing an ActionsSet into this Executor can only be done by the FxChild and after passing the EthereumGovernanceExecutor check
  * as the FxRoot sender
